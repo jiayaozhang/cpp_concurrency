@@ -16,4 +16,8 @@
 
 https://www.bookstack.cn/read/Cpp_Concurrency_In_Action/content-about_this_book-about_this_book-chinese.md
 
-//needs update this one 
+In the meanwhile
+
+I also add KAIST CS492 Concurrent Programming to this respository
+
+https://www.youtube.com/watch?v=P_N2XRygDAk&list=PL5aMzERQ_OZ9j40DJNlsem2qAGoFbfwb4&index=4
