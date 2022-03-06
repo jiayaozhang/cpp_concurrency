@@ -21,3 +21,20 @@ In the meanwhile
 I also add KAIST CS492 Concurrent Programming to this respository
 
 https://www.youtube.com/watch?v=P_N2XRygDAk&list=PL5aMzERQ_OZ9j40DJNlsem2qAGoFbfwb4&index=4
+
+https://docs.google.com/presentation/d/1NMg08N1LUNDPuMxNZ-UMbdH13p8LXgMM3esbWRMowhU/edit#slide=id.p
+
+
+Prerequisites
+It is strongly recommended that students already took courses on:
+
+Mathematics (MAS101): proposition statement and proof
+Data structures (CS206): linked list, stack, queue
+Systems programming (CS230) or Operating systems (CS330): memory layout, cache, lock
+Programming principles (CS220) or Programming languages (CS320): lambda calculus, interpreter
+Without a proper understanding of these topics, you will likely struggle in this course.
+
+Other recommendations which would help you in this course:
+
+Basic understanding of computer architecture (CS311)
+Programming experience in Rust
