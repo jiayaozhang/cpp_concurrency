@@ -38,3 +38,5 @@ Other recommendations which would help you in this course:
 
 Basic understanding of computer architecture (CS311)
 Programming experience in Rust
+
+// finish chapter 1-3 
